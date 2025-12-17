@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Fiction",
+    "icon": "fas fa-book-open",
+    "color": "linear-gradient(135deg, #3498db, #2ecc71)",
+    "description": "Novels, short stories, and imaginative literature"
+  },
+  {
+    "id": 2,
+    "name": "Non-Fiction",
+    "icon": "fas fa-clipboard-list",
+    "color": "linear-gradient(135deg, #9b59b6, #e74c3c)",
+    "description": "Fact-based writing on real events and topics"
+  },
+  {
+    "id": 3,
+    "name": "Science & Tech",
+    "icon": "fas fa-flask",
+    "color": "linear-gradient(135deg, #f1c40f, #e67e22)",
+    "description": "Books on scientific discoveries and technology"
+  },
+  {
+    "id": 4,
+    "name": "Business & Finance",
+    "icon": "fas fa-chart-line",
+    "color": "linear-gradient(135deg, #1abc9c, #3498db)",
+    "description": "Entrepreneurship, investing, and business strategies"
+  },
+  {
+    "id": 5,
+    "name": "Self-Help",
+    "icon": "fas fa-hands-helping",
+    "color": "linear-gradient(135deg, #e74c3c, #9b59b6)",
+    "description": "Personal development and improvement books"
+  },
+  {
+    "id": 6,
+    "name": "Biography",
+    "icon": "fas fa-user-tie",
+    "color": "linear-gradient(135deg, #2ecc71, #3498db)",
+    "description": "Life stories of notable individuals"
+  },
+  {
+    "id": 7,
+    "name": "Psychology",
+    "icon": "fas fa-brain",
+    "color": "linear-gradient(135deg, #9b59b6, #3498db)",
+    "description": "Understanding human mind and behavior"
+  },
+  {
+    "id": 8,
+    "name": "History",
+    "icon": "fas fa-landmark",
+    "color": "linear-gradient(135deg, #e67e22, #e74c3c)",
+    "description": "Historical accounts and analyses"
+  }
+]
